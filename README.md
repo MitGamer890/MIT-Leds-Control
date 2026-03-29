@@ -16,6 +16,7 @@
 
 * **Zero-Residue Power Off:** Eliminates "ghost" light glow by forcing PWM to 0 and sending a pure black RGB burst.
 * **On-Demand Authentication:** Requests sudo permissions only when Bluetooth stack management is required (Scanning/Connecting).
+  ![Sudo Auth](screenshots/sudo.png)
 * **Smart Library:** Save, name, and manage your favorite color profiles with an integrated "Quick Delete" system.
 * **Responsive UI:** Fully resizable interface with a smooth scroll area for extensive color collections.
 * **Safe Reset:** Factory reset button is locked by a security toggle to prevent accidental data loss.
@@ -49,6 +50,7 @@
 
 * **Apagado de Residuo Cero:** Elimina el "brillo fantasma" forzando el PWM a 0 y enviando una ráfaga RGB negra pura.
 * **Autenticación bajo demanda:** Solicita permisos sudo solo cuando es estrictamente necesario gestionar el Bluetooth (Escaneo/Conexión).
+  ![Sudo Auth](screenshots/sudo.png)
 * **Biblioteca Inteligente:** Guarda, nombra y gestiona tus perfiles de color favoritos con un sistema de borrado rápido integrado.
 * **Interfaz Adaptable:** UI totalmente redimensionable con área de desplazamiento fluida para grandes colecciones de colores.
 * **Reset Seguro:** El botón de restablecimiento de fábrica está bloqueado por un interruptor de seguridad para evitar pérdida de datos accidental.
